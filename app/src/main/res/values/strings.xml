@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">To Do</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up?</string>
+    <string name="todo_logo">TODO Logo</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_registered_sign_in">Already Registered, Sign in</string>
+    <string name="fake">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+        galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing
+        software like Aldus PageMaker including versions of Lorem Ipsum</string>
+    <string name="i_don_t_have_account_create">I don\'t have account , Create!</string>
+    <string name="todo">TODO</string>
+    <string name="created_by_kareem_emad">Created by Kareem Emad</string>
+    <string name="description">Description</string>
+    <string name="title_task">Title task</string>
+    <string name="add">Add</string>
+
+    <string name="title">Title</string>
+    <string name="task_added_in">Time Created </string>
+
+</resources>
